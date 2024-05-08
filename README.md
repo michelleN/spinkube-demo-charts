@@ -21,6 +21,8 @@ helm install \
 
 ```console
 helm install spinkube-cluster-resources spinkube-cluster-resources
+```
+```console
 helm install spin-operator spin-operator
 ```
 
