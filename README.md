@@ -25,4 +25,7 @@ helm install spin-operator spin-operator
 ```
 
 You may encounter an webhook related error after installing the spin-operator chart. If so, run:
-`helm upgrade spin-operator spin-operator`
+
+```console
+helm upgrade spin-operator spin-operator
+```
