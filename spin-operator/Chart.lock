@@ -1,0 +1,6 @@
+dependencies:
+- name: spin-shim-executor
+  repository: file://../../spin-shim-executor
+  version: 0.1.0
+digest: sha256:3308ac0eefbd1cdd86353fb47b3de10d12f5154d3d05a6a095ea9af88a2a65c7
+generated: "2024-05-07T17:39:09.188297-04:00"
